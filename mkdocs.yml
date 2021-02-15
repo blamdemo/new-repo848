@@ -1,0 +1,8 @@
+site_name: "ghjdfsdgfgiui"
+site_description: "https://github.com/blamdemo/kgdfudfdiudhk"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

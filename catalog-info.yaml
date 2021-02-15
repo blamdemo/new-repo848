@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ghjdfsdgfgiui"
+  description: "https://github.com/blamdemo/kgdfudfdiudhk"
+  annotations:
+    github.com/project-slug: blamdemo/new-repo848
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/new-repo848
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "jhjhjh"
